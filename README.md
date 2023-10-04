@@ -1,23 +1,23 @@
-# Presentazione di Lorenzo Garofalo
+# Lorenzo Garofalo - Introduction
 
-Ciao, sono **Lorenzo Garofalo**, un designer e marketer italiano appassionato di sviluppo web. Vivo tra Malaga, Spagna, e Milano, Italia. Sono un appassionato di lingue e parlo inglese, spagnolo e, ovviamente, italiano.
+Hello, I'm **Lorenzo Garofalo**, an Italian designer and marketer with a passion for web development. I split my time between Malaga, Spain, and Milan, Italy, and I'm fluent in English, Spanish, and of course, Italian.
 
-## Educazione
+## Education
 
-- Laurea in **Design** presso il *Politecnico di Milano*.
-- Master in **Marketing** presso il *Sole 24 Ore Business School*.
-- Corsi di sviluppo web presso la **4Geeks Academy**.
+- Bachelor's degree in **Design** from *Politecnico di Milano*.
+- Master's degree in **Marketing** from *Sole 24 Ore Business School*.
+- Web development courses at **4Geeks Academy**.
 
-## Esperienza
+## Experience
 
-Attualmente, lavoro come freelancer e mi dedico principalmente a progetti di design e marketing. La mia formazione tecnica mi consente anche di sviluppare soluzioni web personalizzate per i miei clienti.
+Currently, I work as a freelancer, primarily focusing on design and marketing projects. My technical background also allows me to develop customized web solutions for my clients.
 
-## Contatti
+## Contact
 
-- **GitHub**: [Lorenzo Garofalo su GitHub](https://github.com/tuonome)
-- **LinkedIn**: [Profilo LinkedIn](https://www.linkedin.com/in/tuonome/)
-- **Email**: lorenzo.garofalo@email.com
+- **GitHub**: [Lorenzo Garofalo on GitHub](https://github.com/yourusername)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourname/)
+- **Email**: your.email@email.com
 
-Sono sempre interessato a nuove opportunità di collaborazione e progetti interessanti. Non esitare a contattarmi se hai domande o desideri lavorare insieme!
+I'm always interested in new collaboration opportunities and exciting projects. Feel free to reach out if you have any questions or would like to work together!
 
-Grazie per aver visitato il mio profilo.
+Thank you for visiting my profile.
