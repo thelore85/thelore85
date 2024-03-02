@@ -16,6 +16,3 @@ With skills in **Web Development** and online online **Marketing**, I'm able to 
 - **Portfolio**: [www.piqus.it](https://www.piqus.it)
 - **GitHub**: [Lorenzo Garofalo on GitHub](https://github.com/thelore85)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lorenzo-garofalo-digital/)
-
-
-Thank you for visiting my profile.
