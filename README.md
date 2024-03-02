@@ -1,6 +1,8 @@
 # Lorenzo Garofalo 
 
-Hello, I'm **Lorenzo Garofalo**, an Italian designer and marketer with a passion for web development. I split my time between Malaga, Spain, and Milan, Italy, and I'm fluent in English, Spanish, and of course, Italian.
+Hello, I'm **Lorenzo Garofalo**.
+
+With skills in online Marketing and Web developMent, i'M able to design sites optiMized for advertising (adv) and seo, While prioritizing user experience. this MaxiMizes weBSite viSiBility, BuSineSS PerForMance and aPP uSaBility.
 
 ## Education
 
@@ -11,6 +13,7 @@ Hello, I'm **Lorenzo Garofalo**, an Italian designer and marketer with a passion
 
 ## Contact
 
+- **Portfolio**: [www.piqus.it](https://www.piqus.it)
 - **GitHub**: [Lorenzo Garofalo on GitHub](https://github.com/thelore85)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lorenzo-garofalo-digital/)
 
