@@ -2,7 +2,7 @@
 
 Hello, I'm **Lorenzo Garofalo**.
 
-With skills in online Marketing and Web developMent, i'M able to design sites optiMized for advertising (adv) and seo, While prioritizing user experience. this MaxiMizes weBSite viSiBility, BuSineSS PerForMance and aPP uSaBility.
+With skills in **Web developMent** and online online **Marketing**, I'm able to design sites optimized for advertising (adv) and SEO, while prioritizing user experience. This maximizes website visibility, business performance and App usability.
 
 ## Education
 
