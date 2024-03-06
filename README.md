@@ -1,4 +1,4 @@
-# Lorenzo Garofalo 
+# Lorenzo Garofalo - Web Developer and Online Marketing
 
 Hello, I'm **Lorenzo Garofalo**.
 
