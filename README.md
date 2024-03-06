@@ -1,6 +1,8 @@
-# Lorenzo Garofalo - Web Developer and Online Marketing
+# Lorenzo Garofalo
 
-Hello, I'm **Lorenzo Garofalo**.
+## Web Developer and Online Marketing
+
+Hello, I'm **Lorenzo**.
 
 With skills in **Web Development** and online online **Marketing**, I'm able to design sites optimized for **SEO**, **advertising** (ADV) and **User Experience** (UX). This maximizes website visibility, business performance and App usability.
 
