@@ -1,16 +1,16 @@
 # Lorenzo Garofalo
 
-**Web Developer and Online Marketing**
+**Full Stack Web Developer**
 
-Hello, I'm **Lorenzo**.
-
-With skills in **Web Development** and online online **Marketing**, I'm able to design sites optimized for **SEO**, **advertising** (ADV) and **User Experience** (UX). This maximizes website visibility, business performance and App usability.
+I'm a Full Stack Web Developer with expertise in building Websites and App using **JavaScript, and Python**. I specialize in modern frameworks and tools like **React, TypeScript, Next.js, React-Router, Tailwind, Flask**.
+Complete my profile a background in **digital marketing, UX design**, and a strong attitude toward self-learning and improvement.
 
 ## Education
 
-- Web development Bootcamp at **4Geeks Academy**.
-- Bachelor's degree in **Design** from *Politecnico di Milano*.
-- Master's degree in **Marketing** from *Sole 24 Ore Business School*.
+- Web development at **4Geeks Academy**. 2024 - 2025
+- Master's degree in **Marketing** from *Sole 24 Ore Business School*. 2018 - 2019
+- Bachelor's degree in **Design** from *Politecnico di Milano*. 2004 - 2009
+
 
 
 ## Contact
