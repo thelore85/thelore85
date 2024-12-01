@@ -2,7 +2,7 @@
 
 **Full Stack Web Developer**
 
-I'm a Full Stack Web Developer with expertise in building Websites and App using **JavaScript, and Python**. I specialize in modern frameworks and tools like **React, TypeScript, Next.js, React-Router, Tailwind, Flask**.
+Full Stack Web Developer with expertise in building Websites and App using **JavaScript, and Python**. Specialized in modern frameworks and tools like **React, TypeScript, Next.js, React-Router, Tailwind, Flask**.
 Complete my profile a background in **digital marketing, UX design**, and a strong attitude toward self-learning and improvement.
 
 ## Education
